@@ -1,0 +1,12 @@
+Best fitness in generation 99: 4.05
+{'SLA100A': {'facilitator': 'Lock', 'room': 'Loft 206', 'time': '2 PM'},    
+ 'SLA100B': {'facilitator': 'Glen', 'room': 'Slater 003', 'time': '12 PM'}, 
+ 'SLA191A': {'facilitator': 'Banks', 'room': 'Loft 310', 'time': '11 AM'},  
+ 'SLA191B': {'facilitator': 'Lock', 'room': 'Beach 301', 'time': '3 PM'},   
+ 'SLA201': {'facilitator': 'Richards', 'room': 'Loft 206', 'time': '10 AM'},
+ 'SLA291': {'facilitator': 'Uther', 'room': 'Loft 206', 'time': '11 AM'},   
+ 'SLA303': {'facilitator': 'Numen', 'room': 'Loft 310', 'time': '10 AM'},   
+ 'SLA304': {'facilitator': 'Zeldin', 'room': 'Loft 310', 'time': '1 PM'},   
+ 'SLA394': {'facilitator': 'Singer', 'room': 'Roman 201', 'time': '2 PM'},  
+ 'SLA449': {'facilitator': 'Shaw', 'room': 'Frank 119', 'time': '3 PM'},    
+ 'SLA451': {'facilitator': 'Tyler', 'room': 'Beach 301', 'time': '12 PM'}}
